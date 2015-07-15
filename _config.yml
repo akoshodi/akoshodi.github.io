@@ -1,0 +1,24 @@
+# Site settings
+title: akoshodi
+subtitle: interesting
+email: akoshodi@gmail.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://akoshodi.github.io"
+twitter_username: akoshodi
+github_username:  akoshodi
+facebook_username:  akoshodi
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+analytics :
+  provider : google
+  google:
+    tracking_id : ''
+  getclicky :
+    site_id
