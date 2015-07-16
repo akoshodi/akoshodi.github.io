@@ -19,6 +19,6 @@ exclude: ["node_modules"]
 analytics :
   provider : google
   google:
-    tracking_id : ''
+    tracking_id : 'UA-65223625-1'
   getclicky :
     site_id
